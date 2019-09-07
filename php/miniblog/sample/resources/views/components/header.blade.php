@@ -1,3 +1,6 @@
+<!-- Storage/app/public/images/に画像を置いた後にシンボリックリンクを貼る
+     （ターミナルでphp artisan storage:linkする）
+   　下記のアドレスを書くと画像が表示される -->
 <img src="/storage/images/logo.gif" width="272px" height="48px">
 
 <ul class="account-menu">
